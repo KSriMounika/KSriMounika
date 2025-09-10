@@ -1,6 +1,8 @@
-## 🚀 Coding Profiles
-- [LeetCode](https://leetcode.com/u/keerthisrimounika/)
-- [HackerRank](https://www.hackerrank.com/profile/keerthisrimouni1)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/keerthisrdlc0/)
-- [CodeChef](https://www.codechef.com/users/ksmounika)
+<p align="left">
+  <a href="https://leetcode.com/keerthisrimounika" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
+  </a>
+</p>
 
+<!-- LeetCode Stats Card -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/keerthisrimounika?theme=dark&font=Karma&ext=heatmap)
