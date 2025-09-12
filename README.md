@@ -15,3 +15,15 @@
 
 <!-- CodeChef Stats -->
 ![CodeChef Stats](https://codechef-stats.vercel.app/api?username=ksmounika&theme=dark)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KSriMounika/KSriMounika/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KSriMounika/KSriMounika/tree/master/0069-sqrtx) |
+<!---LeetCode Topics End-->
