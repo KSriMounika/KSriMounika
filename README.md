@@ -26,4 +26,9 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/KSriMounika/KSriMounika/tree/master/0069-sqrtx) |
+| [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
+## Array
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
