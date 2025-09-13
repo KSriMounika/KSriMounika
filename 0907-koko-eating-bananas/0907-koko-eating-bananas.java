@@ -3,7 +3,7 @@ class Solution {
 
         int low = 1;
         int high = getmax(piles);
-        int res = high;
+        int res =0;
         while(low<=high)
         {
             int mid = low + (high-low)/2;
