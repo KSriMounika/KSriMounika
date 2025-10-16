@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KSriMounika/KSriMounika/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/KSriMounika/KSriMounika/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/KSriMounika/KSriMounika/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KSriMounika/KSriMounika/tree/master/0204-count-primes) |
 | [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/KSriMounika/KSriMounika/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KSriMounika/KSriMounika/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KSriMounika/KSriMounika/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
