@@ -13,8 +13,6 @@
   </a>
 </p>
 
-<!-- CodeChef Stats -->
-![CodeChef Stats](https://codechef-stats.vercel.app/api?username=ksmounika&theme=dark)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
