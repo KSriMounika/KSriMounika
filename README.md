@@ -31,6 +31,7 @@
 | [0059-spiral-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0059-spiral-matrix-ii) |
 | [0189-rotate-array](https://github.com/KSriMounika/KSriMounika/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KSriMounika/KSriMounika/tree/master/0204-count-primes) |
+| [0867-transpose-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0867-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -81,9 +82,11 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/KSriMounika/https-github.com-KSriMounika/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KSriMounika/https-github.com-KSriMounika/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
