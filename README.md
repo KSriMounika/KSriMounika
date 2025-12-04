@@ -30,6 +30,7 @@
 | [0189-rotate-array](https://github.com/KSriMounika/KSriMounika/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KSriMounika/KSriMounika/tree/master/0204-count-primes) |
 | [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
+| [0054-spiral-matrix](https://github.com/KSriMounika/https-github.com-KSriMounika/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +75,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KSriMounika/KSriMounika/tree/master/0003-longest-substring-without-repeating-characters) |
+
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/KSriMounika/https-github.com-KSriMounika/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/KSriMounika/https-github.com-KSriMounika/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
