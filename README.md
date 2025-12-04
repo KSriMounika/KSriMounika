@@ -16,6 +16,7 @@
 | [0069-sqrtx](https://github.com/KSriMounika/KSriMounika/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/KSriMounika/KSriMounika/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KSriMounika/KSriMounika/tree/master/0204-count-primes) |
+| [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,12 +34,14 @@
 | [0204-count-primes](https://github.com/KSriMounika/KSriMounika/tree/master/0204-count-primes) |
 | [0867-transpose-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0867-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
+| [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KSriMounika/KSriMounika/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KSriMounika/KSriMounika/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/KSriMounika/KSriMounika/tree/master/0387-first-unique-character-in-a-string) |
+| [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
 ## String
 |  |
 | ------- |
@@ -89,4 +92,5 @@
 | [0054-spiral-matrix](https://github.com/KSriMounika/https-github.com-KSriMounika/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0867-transpose-matrix) |
+| [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
 <!---LeetCode Topics End-->
