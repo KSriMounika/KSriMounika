@@ -35,6 +35,7 @@
 | [0867-transpose-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0867-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
+| [2553-separate-the-digits-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +94,5 @@
 | [0059-spiral-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0867-transpose-matrix) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
+| [2553-separate-the-digits-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
