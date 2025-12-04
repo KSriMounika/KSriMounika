@@ -27,10 +27,11 @@
 | [0001-two-sum](https://github.com/KSriMounika/KSriMounika/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KSriMounika/KSriMounika/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/KSriMounika/KSriMounika/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/KSriMounika/https-github.com-KSriMounika/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0059-spiral-matrix-ii) |
 | [0189-rotate-array](https://github.com/KSriMounika/KSriMounika/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KSriMounika/KSriMounika/tree/master/0204-count-primes) |
 | [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
-| [0054-spiral-matrix](https://github.com/KSriMounika/https-github.com-KSriMounika/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,13 +76,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KSriMounika/KSriMounika/tree/master/0003-longest-substring-without-repeating-characters) |
-
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KSriMounika/https-github.com-KSriMounika/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KSriMounika/https-github.com-KSriMounika/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
