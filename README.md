@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KSriMounika/KSriMounika/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/KSriMounika/KSriMounika/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KSriMounika/KSriMounika/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/KSriMounika/KSriMounika/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KSriMounika/KSriMounika/tree/master/0204-count-primes) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KSriMounika/KSriMounika/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/KSriMounika/KSriMounika/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/KSriMounika/KSriMounika/tree/master/0387-first-unique-character-in-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KSriMounika/KSriMounika/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -106,6 +108,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/KSriMounika/https-github.com-KSriMounika/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/KSriMounika/KSriMounika/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/KSriMounika/KSriMounika/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KSriMounika/KSriMounika/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -127,6 +130,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KSriMounika/KSriMounika/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/KSriMounika/KSriMounika/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KSriMounika/KSriMounika/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/KSriMounika/KSriMounika/tree/master/0342-power-of-four) |
