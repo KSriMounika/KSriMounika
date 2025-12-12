@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KSriMounika/KSriMounika/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/KSriMounika/KSriMounika/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/KSriMounika/KSriMounika/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KSriMounika/KSriMounika/tree/master/0204-count-primes) |
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/KSriMounika/KSriMounika/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/KSriMounika/KSriMounika/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
