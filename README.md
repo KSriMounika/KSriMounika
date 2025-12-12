@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KSriMounika/KSriMounika/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/KSriMounika/KSriMounika/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KSriMounika/KSriMounika/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/KSriMounika/KSriMounika/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
