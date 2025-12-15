@@ -19,6 +19,7 @@
 | [0069-sqrtx](https://github.com/KSriMounika/KSriMounika/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/KSriMounika/KSriMounika/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KSriMounika/KSriMounika/tree/master/0204-count-primes) |
+| [0326-power-of-three](https://github.com/KSriMounika/KSriMounika/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KSriMounika/KSriMounika/tree/master/0342-power-of-four) |
 | [2169-count-operations-to-obtain-zero](https://github.com/KSriMounika/KSriMounika/tree/master/2169-count-operations-to-obtain-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KSriMounika/KSriMounika/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/KSriMounika/KSriMounika/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KSriMounika/KSriMounika/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
