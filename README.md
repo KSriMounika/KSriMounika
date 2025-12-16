@@ -44,6 +44,7 @@
 | [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/KSriMounika/KSriMounika/tree/master/1929-concatenation-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSriMounika/KSriMounika/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KSriMounika/KSriMounika/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2553-separate-the-digits-in-an-array) |
@@ -57,6 +58,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/KSriMounika/KSriMounika/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/KSriMounika/KSriMounika/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSriMounika/KSriMounika/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## String
@@ -76,6 +78,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KSriMounika/KSriMounika/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSriMounika/KSriMounika/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Enumeration
 |  |
 | ------- |
