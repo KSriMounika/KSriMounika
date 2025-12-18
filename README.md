@@ -50,6 +50,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/KSriMounika/KSriMounika/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/KSriMounika/KSriMounika/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
@@ -99,6 +100,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/KSriMounika/KSriMounika/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/KSriMounika/KSriMounika/tree/master/0189-rotate-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KSriMounika/KSriMounika/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [1484-group-sold-products-by-the-date](https://github.com/KSriMounika/KSriMounika/tree/master/1484-group-sold-products-by-the-date) |
+## Sorting
+|  |
+| ------- |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 <!---LeetCode Topics End-->
