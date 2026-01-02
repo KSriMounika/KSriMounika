@@ -22,6 +22,7 @@
 | [0326-power-of-three](https://github.com/KSriMounika/KSriMounika/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KSriMounika/KSriMounika/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/KSriMounika/KSriMounika/tree/master/0371-sum-of-two-integers) |
+| [1903-largest-odd-number-in-string](https://github.com/KSriMounika/KSriMounika/tree/master/1903-largest-odd-number-in-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/KSriMounika/KSriMounika/tree/master/2169-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/KSriMounika/KSriMounika/tree/master/2485-find-the-pivot-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
@@ -88,6 +89,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/KSriMounika/KSriMounika/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1768-merge-strings-alternately](https://github.com/KSriMounika/KSriMounika/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/KSriMounika/KSriMounika/tree/master/1816-truncate-sentence) |
+| [1903-largest-odd-number-in-string](https://github.com/KSriMounika/KSriMounika/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KSriMounika/KSriMounika/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Queue
@@ -193,4 +195,8 @@
 | [1991-find-the-middle-index-in-array](https://github.com/KSriMounika/KSriMounika/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/KSriMounika/KSriMounika/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/KSriMounika/KSriMounika/tree/master/2574-left-and-right-sum-differences) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/KSriMounika/KSriMounika/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
