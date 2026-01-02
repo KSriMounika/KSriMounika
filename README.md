@@ -32,6 +32,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KSriMounika/KSriMounika/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/KSriMounika/KSriMounika/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0074-search-a-2d-matrix) |
 | [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KSriMounika/KSriMounika/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KSriMounika/KSriMounika/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KSriMounika/KSriMounika/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/KSriMounika/KSriMounika/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KSriMounika/https-github.com-KSriMounika/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0059-spiral-matrix-ii) |
