@@ -42,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KSriMounika/KSriMounika/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KSriMounika/KSriMounika/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/KSriMounika/KSriMounika/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KSriMounika/KSriMounika/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/KSriMounika/KSriMounika/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KSriMounika/https-github.com-KSriMounika/tree/master/0054-spiral-matrix) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KSriMounika/KSriMounika/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/KSriMounika/KSriMounika/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/KSriMounika/KSriMounika/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/KSriMounika/KSriMounika/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KSriMounika/KSriMounika/tree/master/0283-move-zeroes) |
