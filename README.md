@@ -56,6 +56,7 @@
 | [0905-sort-array-by-parity](https://github.com/KSriMounika/KSriMounika/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/KSriMounika/KSriMounika/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/KSriMounika/KSriMounika/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/KSriMounika/KSriMounika/tree/master/1929-concatenation-of-array) |
@@ -171,6 +172,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/KSriMounika/KSriMounika/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/KSriMounika/KSriMounika/tree/master/0905-sort-array-by-parity) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KSriMounika/KSriMounika/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Prefix Sum
