@@ -71,6 +71,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/KSriMounika/KSriMounika/tree/master/2574-left-and-right-sum-differences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KSriMounika/KSriMounika/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/KSriMounika/KSriMounika/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KSriMounika/KSriMounika/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/KSriMounika/KSriMounika/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -102,6 +103,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/KSriMounika/KSriMounika/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KSriMounika/KSriMounika/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2942-find-words-containing-character](https://github.com/KSriMounika/KSriMounika/tree/master/2942-find-words-containing-character) |
 ## Queue
 |  |
 | ------- |
