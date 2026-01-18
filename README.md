@@ -41,6 +41,7 @@
 | [0069-sqrtx](https://github.com/KSriMounika/KSriMounika/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0074-search-a-2d-matrix) |
 | [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KSriMounika/KSriMounika/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Array
 |  |
@@ -60,6 +61,7 @@
 | [0867-transpose-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/KSriMounika/KSriMounika/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/1512-number-of-good-pairs) |
@@ -139,6 +141,7 @@
 | [0283-move-zeroes](https://github.com/KSriMounika/KSriMounika/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KSriMounika/KSriMounika/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/KSriMounika/KSriMounika/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/KSriMounika/KSriMounika/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KSriMounika/KSriMounika/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -208,6 +211,7 @@
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/KSriMounika/KSriMounika/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KSriMounika/KSriMounika/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
