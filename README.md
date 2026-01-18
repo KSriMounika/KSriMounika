@@ -25,6 +25,7 @@
 | [1512-number-of-good-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/KSriMounika/KSriMounika/tree/master/1903-largest-odd-number-in-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/KSriMounika/KSriMounika/tree/master/2169-count-operations-to-obtain-zero) |
+| [2469-convert-the-temperature](https://github.com/KSriMounika/KSriMounika/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/KSriMounika/KSriMounika/tree/master/2485-find-the-pivot-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/KSriMounika/KSriMounika/tree/master/2652-sum-multiples) |
