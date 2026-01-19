@@ -79,6 +79,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/KSriMounika/KSriMounika/tree/master/2574-left-and-right-sum-differences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KSriMounika/KSriMounika/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/KSriMounika/KSriMounika/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2942-find-words-containing-character](https://github.com/KSriMounika/KSriMounika/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KSriMounika/KSriMounika/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -148,6 +149,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/KSriMounika/KSriMounika/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KSriMounika/KSriMounika/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/KSriMounika/KSriMounika/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
 |  |
