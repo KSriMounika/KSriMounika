@@ -90,6 +90,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/KSriMounika/KSriMounika/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/KSriMounika/KSriMounika/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/KSriMounika/KSriMounika/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3668-restore-finishing-order](https://github.com/KSriMounika/KSriMounika/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/KSriMounika/KSriMounika/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
@@ -220,6 +221,7 @@
 | [0342-power-of-four](https://github.com/KSriMounika/KSriMounika/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/KSriMounika/KSriMounika/tree/master/0371-sum-of-two-integers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/KSriMounika/KSriMounika/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/KSriMounika/KSriMounika/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Database
 |  |
 | ------- |
