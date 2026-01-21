@@ -77,6 +77,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/KSriMounika/KSriMounika/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSriMounika/KSriMounika/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KSriMounika/KSriMounika/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2553-separate-the-digits-in-an-array) |
