@@ -70,6 +70,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/KSriMounika/KSriMounika/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/KSriMounika/KSriMounika/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/KSriMounika/KSriMounika/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/KSriMounika/KSriMounika/tree/master/1816-truncate-sentence) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KSriMounika/KSriMounika/tree/master/0204-count-primes) |
+| [1534-count-good-triplets](https://github.com/KSriMounika/KSriMounika/tree/master/1534-count-good-triplets) |
 ## Number Theory
 |  |
 | ------- |
