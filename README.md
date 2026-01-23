@@ -34,6 +34,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/KSriMounika/KSriMounika/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KSriMounika/KSriMounika/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/KSriMounika/KSriMounika/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KSriMounika/KSriMounika/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3516-find-closest-person](https://github.com/KSriMounika/KSriMounika/tree/master/3516-find-closest-person) |
 ## Binary Search
 |  |
@@ -90,6 +91,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KSriMounika/KSriMounika/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/KSriMounika/KSriMounika/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KSriMounika/KSriMounika/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/KSriMounika/KSriMounika/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/KSriMounika/KSriMounika/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3668-restore-finishing-order](https://github.com/KSriMounika/KSriMounika/tree/master/3668-restore-finishing-order) |
@@ -109,6 +111,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSriMounika/KSriMounika/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KSriMounika/KSriMounika/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/KSriMounika/KSriMounika/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
