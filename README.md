@@ -75,6 +75,7 @@
 | [1672-richest-customer-wealth](https://github.com/KSriMounika/KSriMounika/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/KSriMounika/KSriMounika/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/KSriMounika/KSriMounika/tree/master/1816-truncate-sentence) |
+| [1920-build-array-from-permutation](https://github.com/KSriMounika/KSriMounika/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KSriMounika/KSriMounika/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/KSriMounika/KSriMounika/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSriMounika/KSriMounika/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -196,6 +197,7 @@
 | [0059-spiral-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/KSriMounika/KSriMounika/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/KSriMounika/KSriMounika/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KSriMounika/KSriMounika/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KSriMounika/KSriMounika/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/KSriMounika/KSriMounika/tree/master/2169-count-operations-to-obtain-zero) |
