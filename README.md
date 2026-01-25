@@ -96,6 +96,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KSriMounika/KSriMounika/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/KSriMounika/KSriMounika/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/KSriMounika/KSriMounika/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3467-transform-array-by-parity](https://github.com/KSriMounika/KSriMounika/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/KSriMounika/KSriMounika/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/KSriMounika/KSriMounika/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
@@ -144,6 +145,7 @@
 | [1512-number-of-good-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/KSriMounika/KSriMounika/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSriMounika/KSriMounika/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3467-transform-array-by-parity](https://github.com/KSriMounika/KSriMounika/tree/master/3467-transform-array-by-parity) |
 ## Enumeration
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KSriMounika/KSriMounika/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/KSriMounika/KSriMounika/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
