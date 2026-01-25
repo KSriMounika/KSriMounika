@@ -129,6 +129,7 @@
 | [1768-merge-strings-alternately](https://github.com/KSriMounika/KSriMounika/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/KSriMounika/KSriMounika/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/KSriMounika/KSriMounika/tree/master/1903-largest-odd-number-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/KSriMounika/KSriMounika/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KSriMounika/KSriMounika/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/KSriMounika/KSriMounika/tree/master/2942-find-words-containing-character) |
@@ -169,6 +170,7 @@
 | [0905-sort-array-by-parity](https://github.com/KSriMounika/KSriMounika/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/KSriMounika/KSriMounika/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/KSriMounika/KSriMounika/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KSriMounika/KSriMounika/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/KSriMounika/KSriMounika/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -264,4 +266,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KSriMounika/KSriMounika/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/KSriMounika/KSriMounika/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
