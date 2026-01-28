@@ -102,6 +102,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/KSriMounika/KSriMounika/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3467-transform-array-by-parity](https://github.com/KSriMounika/KSriMounika/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/KSriMounika/KSriMounika/tree/master/3668-restore-finishing-order) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/KSriMounika/KSriMounika/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/KSriMounika/KSriMounika/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
