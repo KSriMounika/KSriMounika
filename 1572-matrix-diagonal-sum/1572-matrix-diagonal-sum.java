@@ -15,10 +15,10 @@ class Solution {
         }
          for(int i=0; i<n; i++)
         {
-            for(int j=n-i-1; j<=n-i-1; j++)
+           
             {
                   
-                    s+= mat[i][j];
+                s+= mat[i][n-i-1];
                   
                 
             }
