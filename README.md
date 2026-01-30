@@ -75,6 +75,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KSriMounika/KSriMounika/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/KSriMounika/KSriMounika/tree/master/1534-count-good-triplets) |
+| [1572-matrix-diagonal-sum](https://github.com/KSriMounika/KSriMounika/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/KSriMounika/KSriMounika/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/KSriMounika/KSriMounika/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/KSriMounika/KSriMounika/tree/master/1816-truncate-sentence) |
@@ -204,6 +205,7 @@
 | [0059-spiral-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/KSriMounika/KSriMounika/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/KSriMounika/KSriMounika/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Simulation
