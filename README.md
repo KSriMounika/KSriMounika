@@ -95,6 +95,7 @@
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/KSriMounika/KSriMounika/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2942-find-words-containing-character](https://github.com/KSriMounika/KSriMounika/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/KSriMounika/KSriMounika/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/KSriMounika/KSriMounika/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KSriMounika/KSriMounika/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/KSriMounika/KSriMounika/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
