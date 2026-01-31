@@ -295,4 +295,12 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KSriMounika/KSriMounika/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/KSriMounika/KSriMounika/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/KSriMounika/KSriMounika/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
