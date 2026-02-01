@@ -37,6 +37,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/KSriMounika/KSriMounika/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KSriMounika/KSriMounika/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3516-find-closest-person](https://github.com/KSriMounika/KSriMounika/tree/master/3516-find-closest-person) |
+| [3783-mirror-distance-of-an-integer](https://github.com/KSriMounika/KSriMounika/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |
