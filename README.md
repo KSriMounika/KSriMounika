@@ -24,6 +24,7 @@
 | [0371-sum-of-two-integers](https://github.com/KSriMounika/KSriMounika/tree/master/0371-sum-of-two-integers) |
 | [1390-four-divisors](https://github.com/KSriMounika/KSriMounika/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/1512-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/KSriMounika/KSriMounika/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/KSriMounika/KSriMounika/tree/master/1903-largest-odd-number-in-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/KSriMounika/KSriMounika/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/KSriMounika/KSriMounika/tree/master/2235-add-two-integers) |
@@ -80,6 +81,7 @@
 | [1672-richest-customer-wealth](https://github.com/KSriMounika/KSriMounika/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/KSriMounika/KSriMounika/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/KSriMounika/KSriMounika/tree/master/1816-truncate-sentence) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/KSriMounika/KSriMounika/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/KSriMounika/KSriMounika/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KSriMounika/KSriMounika/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/KSriMounika/KSriMounika/tree/master/1991-find-the-middle-index-in-array) |
@@ -169,6 +171,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/KSriMounika/KSriMounika/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/KSriMounika/KSriMounika/tree/master/1534-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/KSriMounika/KSriMounika/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 | [0191-number-of-1-bits](https://github.com/KSriMounika/KSriMounika/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/KSriMounika/KSriMounika/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/KSriMounika/KSriMounika/tree/master/0371-sum-of-two-integers) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/KSriMounika/KSriMounika/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/KSriMounika/KSriMounika/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/KSriMounika/KSriMounika/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -305,4 +309,12 @@
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/KSriMounika/KSriMounika/tree/master/2236-root-equals-sum-of-children) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/KSriMounika/KSriMounika/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/KSriMounika/KSriMounika/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
