@@ -116,6 +116,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/KSriMounika/KSriMounika/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/KSriMounika/KSriMounika/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/KSriMounika/KSriMounika/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/KSriMounika/KSriMounika/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KSriMounika/KSriMounika/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -135,6 +136,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/KSriMounika/KSriMounika/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KSriMounika/KSriMounika/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KSriMounika/KSriMounika/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/KSriMounika/KSriMounika/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/KSriMounika/KSriMounika/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1108-defanging-an-ip-address](https://github.com/KSriMounika/KSriMounika/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/KSriMounika/KSriMounika/tree/master/1768-merge-strings-alternately) |
