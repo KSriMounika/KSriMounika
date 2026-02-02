@@ -75,6 +75,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KSriMounika/KSriMounika/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/KSriMounika/KSriMounika/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KSriMounika/KSriMounika/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/KSriMounika/KSriMounika/tree/master/1534-count-good-triplets) |
