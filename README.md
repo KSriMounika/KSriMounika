@@ -92,6 +92,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KSriMounika/KSriMounika/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2418-sort-the-people](https://github.com/KSriMounika/KSriMounika/tree/master/2418-sort-the-people) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/KSriMounika/KSriMounika/tree/master/2574-left-and-right-sum-differences) |
@@ -127,6 +128,7 @@
 | [1512-number-of-good-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/KSriMounika/KSriMounika/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSriMounika/KSriMounika/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2418-sort-the-people](https://github.com/KSriMounika/KSriMounika/tree/master/2418-sort-the-people) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KSriMounika/KSriMounika/tree/master/2549-count-distinct-numbers-on-board) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/KSriMounika/KSriMounika/tree/master/3146-permutation-difference-between-two-strings) |
@@ -150,6 +152,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/KSriMounika/KSriMounika/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KSriMounika/KSriMounika/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KSriMounika/KSriMounika/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/KSriMounika/KSriMounika/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/KSriMounika/KSriMounika/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/KSriMounika/KSriMounika/tree/master/3146-permutation-difference-between-two-strings) |
@@ -278,6 +281,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KSriMounika/KSriMounika/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2418-sort-the-people](https://github.com/KSriMounika/KSriMounika/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KSriMounika/KSriMounika/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/KSriMounika/KSriMounika/tree/master/3467-transform-array-by-parity) |
