@@ -46,6 +46,7 @@
 | [0074-search-a-2d-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/0349-intersection-of-two-arrays) |
 | [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KSriMounika/KSriMounika/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Array
@@ -69,6 +70,7 @@
 | [0907-koko-eating-bananas](https://github.com/KSriMounika/KSriMounika/tree/master/0907-koko-eating-bananas) |
 | [1051-height-checker](https://github.com/KSriMounika/KSriMounika/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/KSriMounika/KSriMounika/tree/master/1200-minimum-absolute-difference) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KSriMounika/KSriMounika/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/KSriMounika/KSriMounika/tree/master/1390-four-divisors) |
@@ -222,6 +224,7 @@
 | [0059-spiral-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/KSriMounika/KSriMounika/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/KSriMounika/KSriMounika/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/2373-largest-local-values-in-a-matrix) |
