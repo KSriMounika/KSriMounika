@@ -6,8 +6,14 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/KSriMounika/KSriMounika/tree/master/0125-valid-palindrome) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/KSriMounika/KSriMounika/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/KSriMounika/KSriMounika/tree/master/0125-valid-palindrome) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/KSriMounika/KSriMounika/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Array
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/KSriMounika/KSriMounika/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
