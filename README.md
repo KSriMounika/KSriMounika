@@ -17,5 +17,18 @@
 ## Array
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0240-search-a-2d-matrix-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KSriMounika/KSriMounika/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
