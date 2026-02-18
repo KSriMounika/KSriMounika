@@ -14,12 +14,14 @@
 | [0125-valid-palindrome](https://github.com/KSriMounika/KSriMounika/tree/master/0125-valid-palindrome) |
 | [1678-goal-parser-interpretation](https://github.com/KSriMounika/KSriMounika/tree/master/1678-goal-parser-interpretation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KSriMounika/KSriMounika/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/KSriMounika/KSriMounika/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Array
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/KSriMounika/KSriMounika/tree/master/0240-search-a-2d-matrix-ii) |
 | [1720-decode-xored-array](https://github.com/KSriMounika/KSriMounika/tree/master/1720-decode-xored-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KSriMounika/KSriMounika/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/KSriMounika/KSriMounika/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,4 +39,8 @@
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/KSriMounika/KSriMounika/tree/master/0693-binary-number-with-alternating-bits) |
 | [1720-decode-xored-array](https://github.com/KSriMounika/KSriMounika/tree/master/1720-decode-xored-array) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/KSriMounika/KSriMounika/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
