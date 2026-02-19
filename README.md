@@ -7,6 +7,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/KSriMounika/KSriMounika/tree/master/0125-valid-palindrome) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KSriMounika/KSriMounika/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/KSriMounika/KSriMounika/tree/master/2367-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [1720-decode-xored-array](https://github.com/KSriMounika/KSriMounika/tree/master/1720-decode-xored-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KSriMounika/KSriMounika/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/KSriMounika/KSriMounika/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2367-number-of-arithmetic-triplets](https://github.com/KSriMounika/KSriMounika/tree/master/2367-number-of-arithmetic-triplets) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
@@ -47,5 +49,10 @@
 ## Hash Table
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/KSriMounika/KSriMounika/tree/master/2367-number-of-arithmetic-triplets) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/2956-find-common-elements-between-two-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/KSriMounika/KSriMounika/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
