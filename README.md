@@ -24,6 +24,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KSriMounika/KSriMounika/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/KSriMounika/KSriMounika/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/KSriMounika/KSriMounika/tree/master/2367-number-of-arithmetic-triplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/KSriMounika/KSriMounika/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
@@ -50,9 +51,14 @@
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/KSriMounika/KSriMounika/tree/master/2367-number-of-arithmetic-triplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/KSriMounika/KSriMounika/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KSriMounika/KSriMounika/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Enumeration
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/KSriMounika/KSriMounika/tree/master/2367-number-of-arithmetic-triplets) |
+## Sorting
+|  |
+| ------- |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/KSriMounika/KSriMounika/tree/master/2475-number-of-unequal-triplets-in-array) |
 <!---LeetCode Topics End-->
