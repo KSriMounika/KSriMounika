@@ -56,9 +56,14 @@
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/KSriMounika/KSriMounika/tree/master/1925-count-square-sum-triples) |
 | [2367-number-of-arithmetic-triplets](https://github.com/KSriMounika/KSriMounika/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/KSriMounika/KSriMounika/tree/master/2475-number-of-unequal-triplets-in-array) |
+## Math
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/KSriMounika/KSriMounika/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
