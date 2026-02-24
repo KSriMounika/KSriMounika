@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KSriMounika/KSriMounika/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0724-find-pivot-index](https://github.com/KSriMounika/KSriMounika/tree/master/0724-find-pivot-index) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KSriMounika/KSriMounika/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KSriMounika/KSriMounika/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KSriMounika/KSriMounika/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/KSriMounika/KSriMounika/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
