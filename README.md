@@ -11,6 +11,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KSriMounika/KSriMounika/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KSriMounika/KSriMounika/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/KSriMounika/KSriMounika/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KSriMounika/KSriMounika/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Sorting
 |  |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KSriMounika/KSriMounika/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/KSriMounika/KSriMounika/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Counting
 |  |
 | ------- |
