@@ -24,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/KSriMounika/KSriMounika/tree/master/2396-strictly-palindromic-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KSriMounika/KSriMounika/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KSriMounika/KSriMounika/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KSriMounika/KSriMounika/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2396-strictly-palindromic-number](https://github.com/KSriMounika/KSriMounika/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KSriMounika/KSriMounika/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/KSriMounika/KSriMounika/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
