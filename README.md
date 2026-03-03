@@ -14,6 +14,7 @@
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/KSriMounika/KSriMounika/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KSriMounika/KSriMounika/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KSriMounika/KSriMounika/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/KSriMounika/KSriMounika/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/KSriMounika/KSriMounika/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3731-find-missing-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/KSriMounika/KSriMounika/tree/master/0724-find-pivot-index) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/KSriMounika/KSriMounika/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
