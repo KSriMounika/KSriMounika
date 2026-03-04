@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KSriMounika/KSriMounika/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/KSriMounika/KSriMounika/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/KSriMounika/KSriMounika/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KSriMounika/KSriMounika/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/KSriMounika/KSriMounika/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -86,6 +87,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/KSriMounika/KSriMounika/tree/master/0231-power-of-two) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KSriMounika/KSriMounika/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/KSriMounika/KSriMounika/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Counting
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KSriMounika/KSriMounika/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/KSriMounika/KSriMounika/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
