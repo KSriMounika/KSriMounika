@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/KSriMounika/KSriMounika/tree/master/0258-add-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/KSriMounika/KSriMounika/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/KSriMounika/KSriMounika/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/KSriMounika/KSriMounika/tree/master/2485-find-the-pivot-integer) |
@@ -42,6 +43,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/KSriMounika/KSriMounika/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KSriMounika/KSriMounika/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/KSriMounika/KSriMounika/tree/master/1935-maximum-number-of-words-you-can-type) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/KSriMounika/KSriMounika/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
