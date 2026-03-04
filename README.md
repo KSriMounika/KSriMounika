@@ -35,6 +35,7 @@
 | [0202-happy-number](https://github.com/KSriMounika/KSriMounika/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/KSriMounika/KSriMounika/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KSriMounika/KSriMounika/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/KSriMounika/KSriMounika/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/KSriMounika/KSriMounika/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/KSriMounika/KSriMounika/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/KSriMounika/KSriMounika/tree/master/2485-find-the-pivot-integer) |
