@@ -10,6 +10,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/KSriMounika/KSriMounika/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KSriMounika/KSriMounika/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/KSriMounika/KSriMounika/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/KSriMounika/KSriMounika/tree/master/1732-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KSriMounika/KSriMounika/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/KSriMounika/KSriMounika/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/KSriMounika/KSriMounika/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/KSriMounika/KSriMounika/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/KSriMounika/KSriMounika/tree/master/1732-find-the-highest-altitude) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KSriMounika/KSriMounika/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KSriMounika/KSriMounika/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
