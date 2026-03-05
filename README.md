@@ -17,6 +17,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/KSriMounika/KSriMounika/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/KSriMounika/KSriMounika/tree/master/2574-left-and-right-sum-differences) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/KSriMounika/KSriMounika/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3028-ant-on-the-boundary](https://github.com/KSriMounika/KSriMounika/tree/master/3028-ant-on-the-boundary) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KSriMounika/KSriMounika/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KSriMounika/KSriMounika/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KSriMounika/KSriMounika/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -83,6 +84,7 @@
 | [1732-find-the-highest-altitude](https://github.com/KSriMounika/KSriMounika/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/KSriMounika/KSriMounika/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/KSriMounika/KSriMounika/tree/master/2574-left-and-right-sum-differences) |
+| [3028-ant-on-the-boundary](https://github.com/KSriMounika/KSriMounika/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KSriMounika/KSriMounika/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KSriMounika/KSriMounika/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KSriMounika/KSriMounika/tree/master/0258-add-digits) |
+| [3028-ant-on-the-boundary](https://github.com/KSriMounika/KSriMounika/tree/master/3028-ant-on-the-boundary) |
 ## Recursion
 |  |
 | ------- |
