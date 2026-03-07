@@ -7,6 +7,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KSriMounika/KSriMounika/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0724-find-pivot-index](https://github.com/KSriMounika/KSriMounika/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/KSriMounika/KSriMounika/tree/master/0832-flipping-an-image) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KSriMounika/KSriMounika/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KSriMounika/KSriMounika/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KSriMounika/KSriMounika/tree/master/0202-happy-number) |
+| [0832-flipping-an-image](https://github.com/KSriMounika/KSriMounika/tree/master/0832-flipping-an-image) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KSriMounika/KSriMounika/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2396-strictly-palindromic-number](https://github.com/KSriMounika/KSriMounika/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KSriMounika/KSriMounika/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/KSriMounika/KSriMounika/tree/master/0231-power-of-two) |
+| [0832-flipping-an-image](https://github.com/KSriMounika/KSriMounika/tree/master/0832-flipping-an-image) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KSriMounika/KSriMounika/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/KSriMounika/KSriMounika/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Counting
@@ -113,6 +116,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KSriMounika/KSriMounika/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/KSriMounika/KSriMounika/tree/master/0832-flipping-an-image) |
 | [3028-ant-on-the-boundary](https://github.com/KSriMounika/KSriMounika/tree/master/3028-ant-on-the-boundary) |
 ## Recursion
 |  |
@@ -121,5 +125,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/KSriMounika/KSriMounika/tree/master/0832-flipping-an-image) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
