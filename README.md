@@ -19,6 +19,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KSriMounika/KSriMounika/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2574-left-and-right-sum-differences](https://github.com/KSriMounika/KSriMounika/tree/master/2574-left-and-right-sum-differences) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/KSriMounika/KSriMounika/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2965-find-missing-and-repeated-values](https://github.com/KSriMounika/KSriMounika/tree/master/2965-find-missing-and-repeated-values) |
 | [3028-ant-on-the-boundary](https://github.com/KSriMounika/KSriMounika/tree/master/3028-ant-on-the-boundary) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KSriMounika/KSriMounika/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KSriMounika/KSriMounika/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -47,6 +48,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KSriMounika/KSriMounika/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/KSriMounika/KSriMounika/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/KSriMounika/KSriMounika/tree/master/2485-find-the-pivot-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/KSriMounika/KSriMounika/tree/master/2965-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KSriMounika/KSriMounika/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KSriMounika/KSriMounika/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KSriMounika/KSriMounika/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -64,6 +66,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/KSriMounika/KSriMounika/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/KSriMounika/KSriMounika/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KSriMounika/KSriMounika/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2965-find-missing-and-repeated-values](https://github.com/KSriMounika/KSriMounika/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -127,4 +130,5 @@
 | ------- |
 | [0832-flipping-an-image](https://github.com/KSriMounika/KSriMounika/tree/master/0832-flipping-an-image) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/KSriMounika/KSriMounika/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
