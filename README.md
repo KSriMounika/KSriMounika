@@ -16,6 +16,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KSriMounika/KSriMounika/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KSriMounika/KSriMounika/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KSriMounika/KSriMounika/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/KSriMounika/KSriMounika/tree/master/2574-left-and-right-sum-differences) |
@@ -75,6 +76,7 @@
 | [0202-happy-number](https://github.com/KSriMounika/KSriMounika/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/KSriMounika/KSriMounika/tree/master/0832-flipping-an-image) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KSriMounika/KSriMounika/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/KSriMounika/KSriMounika/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KSriMounika/KSriMounika/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2460-apply-operations-to-an-array) |
