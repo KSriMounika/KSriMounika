@@ -21,6 +21,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KSriMounika/KSriMounika/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/KSriMounika/KSriMounika/tree/master/2574-left-and-right-sum-differences) |
+| [2848-points-that-intersect-with-cars](https://github.com/KSriMounika/KSriMounika/tree/master/2848-points-that-intersect-with-cars) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/KSriMounika/KSriMounika/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2965-find-missing-and-repeated-values](https://github.com/KSriMounika/KSriMounika/tree/master/2965-find-missing-and-repeated-values) |
 | [3028-ant-on-the-boundary](https://github.com/KSriMounika/KSriMounika/tree/master/3028-ant-on-the-boundary) |
@@ -70,6 +71,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/KSriMounika/KSriMounika/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/KSriMounika/KSriMounika/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KSriMounika/KSriMounika/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2848-points-that-intersect-with-cars](https://github.com/KSriMounika/KSriMounika/tree/master/2848-points-that-intersect-with-cars) |
 | [2965-find-missing-and-repeated-values](https://github.com/KSriMounika/KSriMounika/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -100,6 +102,7 @@
 | [1732-find-the-highest-altitude](https://github.com/KSriMounika/KSriMounika/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/KSriMounika/KSriMounika/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/KSriMounika/KSriMounika/tree/master/2574-left-and-right-sum-differences) |
+| [2848-points-that-intersect-with-cars](https://github.com/KSriMounika/KSriMounika/tree/master/2848-points-that-intersect-with-cars) |
 | [3028-ant-on-the-boundary](https://github.com/KSriMounika/KSriMounika/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KSriMounika/KSriMounika/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KSriMounika/KSriMounika/tree/master/3432-count-partitions-with-even-sum-difference) |
