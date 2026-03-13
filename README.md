@@ -55,6 +55,7 @@
 | [2485-find-the-pivot-integer](https://github.com/KSriMounika/KSriMounika/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/KSriMounika/KSriMounika/tree/master/2965-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KSriMounika/KSriMounika/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3280-convert-date-to-binary](https://github.com/KSriMounika/KSriMounika/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KSriMounika/KSriMounika/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KSriMounika/KSriMounika/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KSriMounika/KSriMounika/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/KSriMounika/KSriMounika/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [3280-convert-date-to-binary](https://github.com/KSriMounika/KSriMounika/tree/master/3280-convert-date-to-binary) |
 ## Simulation
 |  |
 | ------- |
