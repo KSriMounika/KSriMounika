@@ -17,6 +17,7 @@
 | [1732-find-the-highest-altitude](https://github.com/KSriMounika/KSriMounika/tree/master/1732-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KSriMounika/KSriMounika/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KSriMounika/KSriMounika/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KSriMounika/KSriMounika/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KSriMounika/KSriMounika/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -39,6 +40,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/KSriMounika/KSriMounika/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KSriMounika/KSriMounika/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KSriMounika/KSriMounika/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KSriMounika/KSriMounika/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KSriMounika/KSriMounika/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KSriMounika/KSriMounika/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3731-find-missing-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3731-find-missing-elements) |
@@ -146,4 +148,12 @@
 | [0832-flipping-an-image](https://github.com/KSriMounika/KSriMounika/tree/master/0832-flipping-an-image) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KSriMounika/KSriMounika/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/KSriMounika/KSriMounika/tree/master/2965-find-missing-and-repeated-values) |
+## Greedy
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KSriMounika/KSriMounika/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KSriMounika/KSriMounika/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
