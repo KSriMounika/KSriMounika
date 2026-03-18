@@ -26,6 +26,7 @@
 | [2848-points-that-intersect-with-cars](https://github.com/KSriMounika/KSriMounika/tree/master/2848-points-that-intersect-with-cars) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/KSriMounika/KSriMounika/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2965-find-missing-and-repeated-values](https://github.com/KSriMounika/KSriMounika/tree/master/2965-find-missing-and-repeated-values) |
+| [2974-minimum-number-game](https://github.com/KSriMounika/KSriMounika/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/KSriMounika/KSriMounika/tree/master/3028-ant-on-the-boundary) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KSriMounika/KSriMounika/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KSriMounika/KSriMounika/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -44,6 +45,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/KSriMounika/KSriMounika/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KSriMounika/KSriMounika/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KSriMounika/KSriMounika/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2974-minimum-number-game](https://github.com/KSriMounika/KSriMounika/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/KSriMounika/KSriMounika/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -140,6 +142,7 @@
 | [0832-flipping-an-image](https://github.com/KSriMounika/KSriMounika/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/KSriMounika/KSriMounika/tree/master/1389-create-target-array-in-the-given-order) |
 | [2460-apply-operations-to-an-array](https://github.com/KSriMounika/KSriMounika/tree/master/2460-apply-operations-to-an-array) |
+| [2974-minimum-number-game](https://github.com/KSriMounika/KSriMounika/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/KSriMounika/KSriMounika/tree/master/3028-ant-on-the-boundary) |
 ## Recursion
 |  |
@@ -160,4 +163,8 @@
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KSriMounika/KSriMounika/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/KSriMounika/KSriMounika/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
