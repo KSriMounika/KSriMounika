@@ -60,6 +60,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KSriMounika/KSriMounika/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2396-strictly-palindromic-number](https://github.com/KSriMounika/KSriMounika/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/KSriMounika/KSriMounika/tree/master/2485-find-the-pivot-integer) |
+| [2843-count-symmetric-integers](https://github.com/KSriMounika/KSriMounika/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/KSriMounika/KSriMounika/tree/master/2965-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KSriMounika/KSriMounika/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3280-convert-date-to-binary](https://github.com/KSriMounika/KSriMounika/tree/master/3280-convert-date-to-binary) |
@@ -167,4 +168,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/KSriMounika/KSriMounika/tree/master/2974-minimum-number-game) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/KSriMounika/KSriMounika/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
