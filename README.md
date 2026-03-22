@@ -188,4 +188,8 @@
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/KSriMounika/KSriMounika/tree/master/0938-range-sum-of-bst) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/KSriMounika/KSriMounika/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
