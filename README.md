@@ -136,6 +136,7 @@
 | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KSriMounika/KSriMounika/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/KSriMounika/KSriMounika/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2315-count-asterisks](https://github.com/KSriMounika/KSriMounika/tree/master/2315-count-asterisks) |
 | [3280-convert-date-to-binary](https://github.com/KSriMounika/KSriMounika/tree/master/3280-convert-date-to-binary) |
 ## Simulation
 |  |
