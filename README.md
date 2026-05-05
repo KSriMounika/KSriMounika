@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KSriMounika/KSriMounika/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1773-count-items-matching-a-rule](https://github.com/KSriMounika/KSriMounika/tree/master/1773-count-items-matching-a-rule) |
 ## Greedy
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KSriMounika/KSriMounika/tree/master/1221-split-a-string-in-balanced-strings) |
+## Array
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/KSriMounika/KSriMounika/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
