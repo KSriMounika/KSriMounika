@@ -17,5 +17,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1313-decompress-run-length-encoded-list](https://github.com/KSriMounika/KSriMounika/tree/master/1313-decompress-run-length-encoded-list) |
 | [1773-count-items-matching-a-rule](https://github.com/KSriMounika/KSriMounika/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
