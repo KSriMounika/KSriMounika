@@ -15,11 +15,15 @@ class Solution {
             {
                 if(top == -1) return false;
                 char ch = st[top--];
-                if((s.charAt(i)== ')' && ch != '(') || (s.charAt(i)== '}' && ch != '{')|| (s.charAt(i)== ']' && ch != '['))
+                if((s.charAt(i)== ')' && ch == '(') || (s.charAt(i)== '}' && ch == '{')|| (s.charAt(i)== ']' && ch == '['))
+                {
+                    continue;
+                }
+                else
                 {
                     return false;
                 }
-              
+
             }
 
         }
