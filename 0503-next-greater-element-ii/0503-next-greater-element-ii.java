@@ -16,14 +16,16 @@ class Solution {
             }
             if(top == -1)
             {
-                    arr[i%n] = -1;                   
+                    arr[i%n] = -1; 
+                     st[++top] = nums[i%n];                  
             }
             else
             {
                     arr[i%n] = st[top];
+                     st[++top] = nums[i%n];
                    
             }
-            st[++top] = nums[i%n];
+           
 
             
         }
