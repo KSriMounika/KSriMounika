@@ -9,6 +9,12 @@ class Solution {
             {
                 return mid;
             }
+            if(nums[mid] == nums[low] && nums[mid] == nums[high])
+            {
+                low = mid+1;
+                high = mid-1;
+                continue;
+            }
             if(nums[low] <= nums[mid])
             {
                       
