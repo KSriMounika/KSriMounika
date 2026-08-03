@@ -1,21 +1,28 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
 
-        HashMap<Character, Integer> h1 = new HashMap<>();
-        HashMap<Character, Integer> h2 = new HashMap<>();
-        for(char ch : s.toCharArray())
+        int m = s.length();
+        int n = t.length();
+        char[] arr = s.toCharArray();
+        char[] arr2 = t.toCharArray();
+        Arrays.sort(arr);
+        Arrays.sort(arr2);
+        HashSet<Character> s1 = new HashSet<>();
+        HashSet<Character> s2 = new HashSet<>();
+        for(char c: arr)
         {
-            h1.put(ch, h1.getOrDefault(ch,0)+1);
+            s1.add(c);
         }
-        for(char ch1 : t.toCharArray())
+        for(char c1: arr2)
         {
-            h2.put(ch1, h2.getOrDefault(ch1, 0)+1);
+            s2.add(c1);
         }
-        if(h1.equals(h2))
+        if(s1.equals(s2) && m==n && Arrays.equals(arr, arr2))
         {
             return true;
         }
         return false;
+
         
     }
 }
