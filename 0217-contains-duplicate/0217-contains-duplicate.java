@@ -1,24 +1,38 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
 
-        HashMap<Integer, Integer> h = new HashMap<>();
-        boolean f = false;
-        for(int x: nums)
-        {
-            h.put(x, h.getOrDefault(x,0)+1);
-        }
-        for(int value: h.values())
-        {
-            if(value>=2)
-            {
-                f = true;
-                break;
-               
-            }
-           
-        }
-        return f;
+        // int[] freq = new int[10];
+        // for(int i=0; i<nums.length; i++)
+        // {
+        //     freq[i]++;
+        // }
+       
+        // int c=0;
+        // for(int i=0; i<freq.length; i++)
+        // {
+        //     if(freq[i]>=2)
+        //     {
+        //         c += 1;
 
-        
+        //     }
+        // }
+        // if(c==0)
+        // {
+        //     return false;
+        // }
+        // return true;   
+        HashMap<Integer, Integer> l = new HashMap<>();
+        for(int i=0; i<nums.length; i++)
+        {
+            if(l.containsKey(nums[i]))
+            {
+                return true;
+            }
+            else
+            {
+                l.put(nums[i],i);
+            }
+        }     
+        return false;
     }
 }
