@@ -2,38 +2,43 @@ class Solution {
     public int evalRPN(String[] tokens) {
 
         Stack<Integer> st = new Stack<>();
-        for(String s : tokens)
+        for(int i=0; i<tokens.length; i++)
         {
-           
-            
-                if(!s.equals("+") && !s.equals("-") && !s.equals("*") && !s.equals("/"))
-                {
-                    st.push(Integer.parseInt(s));
-                }
-                else
-                {
-                    int b = st.pop();
-                    int a = st.pop();
-                    if(s.equals("+"))
-                    {
-                        st.push(a+b);
-                    }
-                    else if(s.equals("-"))
-                    {
-                        st.push(a-b);
-                    }
-                    else if(s.equals("*"))
-                    {
-                        st.push(a*b);
-                    }
-                    else if(s.equals("/"))
-                    {
-                        st.push(a/b);
-                    }
-                }
-            
+            if(tokens[i].equals("+"))
+            {
+                int a = st.pop();
+                int b = st.pop();
+                st.push(a+b);
+            }
+            else if(tokens[i].equals("-"))
+            {
+                int a1 = st.pop();
+                int b1 = st.pop();
+                st.push(b1-a1);
+            }
+            else if(tokens[i].equals("*"))
+            {
+                int a2 = st.pop();
+                int b2 = st.pop();
+                st.push(a2*b2);
+            }
+            else if(tokens[i].equals("/"))
+            {
+                int a3 = st.pop();
+                int b3 = st.pop();
+                st.push(b3/a3);
+            }
+            else
+            {
+                st.push(Integer.parseInt(tokens[i]));
+            }
         }
-        return st.pop();
+        int s=0;
+        for(int val: st)
+        {
+            s += val;
+        }
+        return s;
         
     }
 }
