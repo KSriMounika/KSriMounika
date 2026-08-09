@@ -1,7 +1,6 @@
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
-
-         int[] arr = new int[temperatures.length];
+        int[] arr = new int[temperatures.length];
         int[] st = new int[temperatures.length];
         
         int top = -1;
