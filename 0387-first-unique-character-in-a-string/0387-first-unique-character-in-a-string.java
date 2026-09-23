@@ -1,20 +1,23 @@
 class Solution {
     public int firstUniqChar(String s) {
 
-     char[] arr =s.toCharArray();
-     int [] freqarr = new int[26];
-     for(int i=0; i<arr.length; i++)
-     {
-        freqarr[arr[i]-'a']++;
-     }
-     for(int i = 0; i<arr.length; i++)
-     {
-        if(freqarr[arr[i]-'a']==1)
+        HashMap<Character, Integer> m = new HashMap<>();
+        
+        for(char c: s.toCharArray())
         {
-            return i;
+            m.put(c, m.getOrDefault(c, 0)+1);
+            
         }
-     }
-     return -1;
+        for(int i=0; i<s.length(); i++)
+        {
+            if(m.get(s.charAt(i)) == 1)
+            {
+                return i;
+               
+            }
+            
+        }
+        return -1;
         
     }
 }
