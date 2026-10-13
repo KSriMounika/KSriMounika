@@ -1,6 +1,5 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-
         int n = nums.length;
         HashMap<Integer, Integer> m = new HashMap<>();
         int[] arr = new int[2];
@@ -21,5 +20,6 @@ class Solution {
             idx++;
         }
         return arr;
+        
     }
 }
