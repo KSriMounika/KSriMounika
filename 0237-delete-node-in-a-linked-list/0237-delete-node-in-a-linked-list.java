@@ -9,13 +9,9 @@
 class Solution {
     public void deleteNode(ListNode node) {
 
-        ListNode curr = node;
-        if(curr.val == node.val)
-        {
-              curr.val = curr.next.val;
-              curr.next = curr.next.next;
-              curr = curr.next;
-        }
+           node.val = node.next.val;
+           node.next = node.next.next;
+        
            
         
         
