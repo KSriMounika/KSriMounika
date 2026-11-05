@@ -2,27 +2,26 @@ class Solution {
     public int findTheDistanceValue(int[] arr1, int[] arr2, int d) {
 
         int c=0;
-        for(int x =0; x<arr1.length; x++)
+        for(int i=0; i<arr1.length; i++)
         {
-            int flag = 1;
-            
+            boolean found = false;
             for(int j=0; j<arr2.length; j++)
             {
-
-                if(Math.abs(arr1[x]-arr2[j])<=d)
+                int res = Math.abs(arr1[i]-arr2[j]);
+                if(res <= d)
                 {
-                    flag = 0;
+                    found = true;
                     break;
                 }
                 
-                
             }
-            if(flag == 1)
-            c++;
-           
+            if(found == false)
+            {
+               c++;
+            }
+
         }
-        
-       return c;
+        return c;
         
     }
 }
